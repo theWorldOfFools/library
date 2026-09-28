@@ -1,0 +1,10 @@
+# PDF library & media (besar, jangan masuk git — copy manual via FTP/server)
+File_Dok_Lib/uploads/*
+!File_Dok_Lib/uploads/.gitkeep
+File_Dok_Lib/poli/*
+!File_Dok_Lib/poli/.gitkeep
+video/*
+!video/.gitkeep
+
+# Kredensial lokal (tiap server buat sendiri dari db.example.php)
+db.php
